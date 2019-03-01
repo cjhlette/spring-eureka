@@ -1,4 +1,4 @@
-package com.example.springeureka;
+package com.lette.springeureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

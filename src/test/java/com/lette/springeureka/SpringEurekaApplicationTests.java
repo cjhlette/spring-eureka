@@ -1,4 +1,4 @@
-package com.example.springeureka;
+package com.lette.springeureka;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
